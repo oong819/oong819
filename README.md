@@ -1,4 +1,4 @@
-### Welcome!
+# Welcome!
 
 <!--
 **oong819/oong819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### i have a Youtube channel called "Stvk" with a orange bird as icon
+
+im a small indepedent Android app and game developer
+
+on Github: im currently working on Lightning List
+
+**i have a Youtube channel called "Stvk" with a orange bird as icon**
