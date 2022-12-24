@@ -20,3 +20,16 @@ im a small indepedent Android app and game developer
 on Github: im currently working on Lightning List
 
 **i have a Youtube channel called "Stvk" with a orange bird as icon**
+
+i can use the following programming language:
+
+HTML
+JavaScript
+CSS
+Java
+XML
+JSON
+Lua
+C
+
+Android API stuff
