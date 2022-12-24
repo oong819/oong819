@@ -23,13 +23,13 @@ on Github: im currently working on Lightning List
 
 i can use the following programming language:
 
-HTML
-JavaScript
-CSS
-Java
-XML
-JSON
-Lua
-C
+* HTML
+* JavaScript
+* CSS
+* Java
+*  XML
+* JSON
+* Lua
+* C
 
 Android API stuff
