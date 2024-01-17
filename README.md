@@ -30,6 +30,6 @@ i can use the following programming language:
 *  XML
 * JSON
 * Lua
-* C
+* C (noob)
 
 Android API stuff
