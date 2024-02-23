@@ -29,7 +29,7 @@ i can use the following programming language:
 * Java
 *  XML
 * JSON
-familar syntax (not yet tried)
+### familar syntax (not yet tried)
 * Lua
 * C (noob)
 
