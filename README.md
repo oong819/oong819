@@ -21,7 +21,7 @@ on Github: im currently working on Lightning List (gone now =D)
 
 **i have a Youtube channel called "Stvk" with a orange bird as icon**
 
-i can use the following programming language:
+i can use the following markup and programming language:
 
 * HTML
 * JavaScript
